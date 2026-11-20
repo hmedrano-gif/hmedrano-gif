@@ -1,4 +1,4 @@
-<a href="https://hmedrano-gif.github.io"><img src="banner.svg" alt="Heyder Medrano Olier · Ingeniero de Sistemas · Analítica de Datos · Inteligencia Artificial · Desarrollo de Software · Ver portafolio" width="100%"></a>
+<a href="https://hmedrano-gif.github.io"><img src="banner.svg" alt="Heyder Medrano Olier · Ingeniero de Sistemas · Magíster en Análisis y Visualización de Datos Masivos (UNIR) · Ver portafolio" width="100%"></a>
 
 <p align="center">
   <a href="https://hmedrano-gif.github.io"><b>Portafolio</b></a> &nbsp;·&nbsp;
@@ -94,6 +94,8 @@ Seguimiento del Plan de Desarrollo con datos abiertos, para servidores públicos
 | 2023 | ALDESARROLLO · Proyecto Canal del Dique | Tableros en Power BI, ETL con SQL y modelos predictivos en Python |
 | 2011–2021 | Universidad de Cartagena | Docente de educación superior |
 | 2004–2018 | UNAD · Alma Máter · SAII Consulting · Indumats | Ingeniería de sistemas, redes y tutoría virtual |
+
+**Formación:** Magíster en Análisis y Visualización de Datos Masivos, Universidad Internacional de La Rioja (UNIR), 2026 · Ingeniero de Sistemas
 
 **Certificaciones:** Microsoft Technology Associate (Networking Fundamentals) · Panduit Network Infrastructure · Diplomado en Comunicaciones y Redes · Tutor virtual en Moodle y Blackboard
 
