@@ -6,6 +6,14 @@
   <a href="https://github.com/hmotecnologico-create"><b>Proyectos</b></a>
 </p>
 
+## 🎓 Si eres estudiante, empieza aquí
+
+| Curso | 1. Clases y talleres | 2. Entorno de práctica |
+|---|---|---|
+| **Tecnologías de Procesamiento de Datos** · Especialización en Analítica de Datos (CURN) | [**Entrar a las clases →**](https://hmedrano-gif.github.io/CURN/tpd/)<br><sub>Sesiones 1 a 6, presentaciones, talleres BigQuery y Power BI</sub> | [**Abrir mi codespace →**](https://codespaces.new/hmedrano-gif/tpd-codespace?quickstart=1)<br><sub>Hadoop, Spark y Kafka sin instalar nada</sub> |
+
+<sub>Todo lo del curso sale de la página de clases. No necesitas buscar en los repositorios.</sub>
+
 ## Proyectos destacados
 
 <table>
@@ -37,7 +45,9 @@ Matriz de cumplimiento normativo a partir de documentos, con OCR y un LLM local.
 
 Hadoop, Spark, Kafka y BigQuery con 19,9 millones de viajes reales: las tres tecnologías dan la misma cifra al centavo.
 
-`Spark` `Kafka` `BigQuery` `Power BI`
+[Clases](https://hmedrano-gif.github.io/CURN/tpd/) · [Entorno de práctica](https://github.com/hmedrano-gif/tpd-codespace)
+
+`Hadoop` `Spark` `Kafka` `BigQuery` `Power BI`
 
 </td>
 </tr>
@@ -54,12 +64,12 @@ Asistente de auditoría de sistemas de gestión según la ISO 19011, con IA loca
 </td>
 <td valign="top">
 
-**[Entorno big data en Codespaces](https://github.com/hmedrano-gif/tpd-codespace)**<br>
-<sub>DATOS Y BIG DATA</sub>
+**[Diplomado en Análisis de Datos](https://github.com/hmotecnologico-create/UNICOLOMBO)**<br>
+<sub>DOCENCIA · UNICOLOMBO</sub>
 
-Hadoop, Spark y Kafka listos en minutos para cada estudiante, sin instalar nada.
+Calidad de datos, análisis exploratorio y tableros con casos de empresas reales.
 
-`Docker` `Dev Containers` `Bash`
+`Python` `Colab` `Power BI`
 
 </td>
 <td valign="top">
